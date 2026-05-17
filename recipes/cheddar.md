@@ -182,6 +182,29 @@ SA/V ∝ m^(-1/3)
 
 So our 550 g wheel reaches moisture-loss equivalence in **~2.6 months**, but flavour development needs time independent of drying out. The book's 5–6 months for ~1–2 kg wheels is slower than pure SA/V would predict — they're leaving headroom for flavour. For our small wheel, **start tasting at 3 months**, expect "ready" between **3 and 5 months**.
 
+### Maturation by age tier (small home wheels, ~700–800 g)
+
+For a bandaged home wheel in this size range, ageing windows compress dramatically vs the book's 1–2 kg targets. SA/V scaling does the moisture work fast; flavour develops on a more linear curve.
+
+| Stage | Age | What to expect | Comparable to |
+|---|---|---|---|
+| **Too young** | 0–8 weeks | Squeaky, milky, pH-acid sharp. More cottage cheese than cheddar. | — |
+| **OK** | 2–3 months | Recognisably cheddar, mild. Texture starting to firm. First flavour notes (buttery, slight tang). | Supermarket "mild cheddar" |
+| **Good** | 3–5 months | Sweet spot for most small wheels. Clear cheddar character, tangy without being sharp. Texture firm, not crumbly. | Decent mid-range farmhouse |
+| **Best** | 5–7 months | Peak flavour-to-texture balance for this size. Tang deepened, slight nuttiness. May see calcium lactate crystals starting. | Good "mature cheddar" |
+| **Past prime** | 7–9 months | Risk of crumbling, drying-out, or surface-mould issues winning. Bandage may be cracking. | Variable — could be excellent or wrecked |
+| **Don't bother** | 9+ months | Wheel is likely overdried. Big-truckle ageing techniques don't scale here. | — |
+
+**Tasting plan**: cut a small wedge at **month 3** (reference point — tells you where acidification landed), again at **month 4–5** (most likely sweet spot), and **month 6–7** (final taste; may be peak if texture is still firm-not-crumbly). Don't push past **8 months** unless the wheel feels extraordinarily right.
+
+**After each tasting cut, seal the exposed face immediately** — either wax it, or wrap tightly in cling film. An open face dries rapidly and ruins the rest of the wheel.
+
+**Adjustments by batch character**:
+- **Wet curd** (incomplete cheddaring / homogenised milk) → buys headroom on the early end; can push toward upper "Best" range before drying becomes a problem.
+- **Mild starting pH** (mill at 5.40+ true) → flavour lands "mild and rich" rather than "sharp and tangy". Reduce expectations of classic-cheddar pungency.
+- **Scrappy bandage** → watch from month 2 onwards; re-bandage if cracks or lifts appear.
+- **Coconut-oil bandage** (vs lard) → slight antimicrobial bonus, marginally cleaner rind through the window.
+
 ### Rind care
 
 - **Turn weekly** — keeps moisture distribution even, prevents flat-side moisture pooling.
