@@ -47,12 +47,14 @@ book rate     = 1.5 U / 11.4 L = 0.132 U/L (= 1.32 % bulk)
 Chr Hansen    = 50 U / 500 L   = 0.100 U/L (= 1.00 % bulk)
 ```
 
+**Measured pack contents: 3.796 g for 50 U → 0.07592 g/U (75.92 mg/U).**
+
 For a 6 L batch:
 
-| Rate | U needed | % of 50 DU pack | One pack covers |
-|---|---|---|---|
-| Book (1.32 % bulk) | 0.79 U | 1.58 % | 380 L = **63 × 6 L batches** |
-| Chr Hansen std (1.00 % bulk) | 0.60 U | 1.20 % | 500 L = 83 × 6 L batches |
+| Rate | U needed | % of 50 DU pack | Mass to weigh | One pack covers |
+|---|---|---|---|---|
+| Book (1.32 % bulk) | 0.79 U | 1.58 % | **60.0 mg** | 380 L = **63 × 6 L batches** |
+| Chr Hansen std (1.00 % bulk) | 0.60 U | 1.20 % | 45.6 mg | 500 L = 83 × 6 L batches |
 
 Measuring 1.58 % of a small foil pack at home — three options, best first:
 
