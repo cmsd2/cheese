@@ -36,7 +36,7 @@ Danisco       = 0.7 × 0.5263 ≈ 0.37 DCU
 | Rennet (1:10,000) | 3 mL | **1.58 mL** | Dilute in ~30 mL cool non-chlorinated water before adding |
 | Salt (non-iodised) | ~22 g | **~12 g** | 2 % w/w of milled curd; weigh actual curd before salting |
 | Lard or butter | 50 g | 50 g | For greasing the mould; does not scale |
-| CaCl₂ (32 % soln) | optional | optional | 0.2 mL/L if using pasteurised/homogenised milk |
+| CaCl₂ (32 % soln) | optional | optional | Pasteurised non-homogenised: 0.2 mL/L. **Pasteurised + homogenised: try 0.3 mL/L** (= 1.8 mL for 6 L; see calculations.md note). |
 
 ### Dosing R704 from a 50 DU packet
 

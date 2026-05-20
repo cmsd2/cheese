@@ -166,10 +166,17 @@ Underlying assumption: a healthy bulk starter has ~**2 × 10⁹ CFU/g**. The DCU
 
 For pasteurised / homogenised shop milk, add **CaCl₂** to restore set:
 
-- **0.2 mL of 32 % solution per litre of milk** (≈ 1/4 tsp per 4 L)
-- Dilute in ~20× water before stirring in, just before rennet.
+| Milk | Dose (32 % solution) |
+|---|---|
+| Pasteurised, non-homogenised | 0.2 mL/L |
+| **Pasteurised + homogenised** | **0.3 mL/L** (← try next, see below) |
+| Problematic / older milk | up to 0.4 mL/L |
+| Maximum sensible | 0.5 mL/L (beyond risks bitterness + brittle curd) |
+| Raw milk | skip |
 
-Skip for raw milk.
+Dilute in ~20× water before stirring in, just before rennet.
+
+**Note from 2026-05-16 cheddar batch:** used 0.2 mL/L of 32 % into 6 L homogenised pasteurised milk; final set was OK but not super firm. Other factors also contributed (high pH at rennet addition due to slow culture, temperature wobble), but the dose itself was at the conservative end. **For next homogenised-milk make, try 0.3 mL/L** and see if the set is noticeably firmer. Below ~0.5 mL/L there's no real downside.
 
 ## Salt
 

@@ -12,4 +12,5 @@ Notes, recipes, references, and batch log for home cheese-making.
 ## On hand
 
 - Rennet (1:10,000 strength)
-- Chr Hansen R704 — 50 DU foil pack (mesophilic, predominantly homofermentative; covers 500 L at Chr Hansen's 1 % bulk standard, or 380 L at the book's 1.32 % rate)
+- Chr Hansen R704 — 50 DU foil pack (mesophilic, predominantly homofermentative; covers 500 L at Chr Hansen's 1 % bulk standard, or 380 L at the book's 1.32 % rate). Measured pack contents: 3.796 g (= 75.92 mg/U).
+- Chr Hansen TCC-20 — 50 U foil pack (thermophilic, *S. thermophilus*-based; for mozzarella and other pasta filata. Covers ~250 L at the book's 0.20 U/L rate).
