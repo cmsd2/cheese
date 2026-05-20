@@ -5,6 +5,7 @@ Notes, recipes, references, and batch log for home cheese-making.
 ## Layout
 
 - [calculations.md](calculations.md) — percentages, ratios, brine, rennet dosing
+- [milk.md](milk.md) — what to look for when shopping for cheese-making milk
 - [log.md](log.md) — chronological record of batches
 - [recipes/](recipes/) — one file per cheese
 - [references/](references/) — summaries of useful web pages
