@@ -55,16 +55,18 @@ Anything sitting on the supermarket shelf with a date >10 days out is suspect �
 - Any milk on the ambient shelf rather than the chiller
 - Any bottle with a sell-by date more than ~12 days out (often = ultra-pasteurised)
 
-## Cost reality check (6 L cheddar batch)
+## Cost reality check (2026 UK prices)
 
-| Source | Approx cost |
-|---|---|
-| Tesco/Sainsbury's standard whole | ~£6 |
-| Waitrose non-homogenised | ~£9 |
-| Channel Island doorstep | ~£12 |
-| Raw milk farm-direct | ~£10–15 |
+| Source | Per litre | 4 L batch | 6 L batch |
+|---|---|---|---|
+| Tesco/Sainsbury's standard whole | ~£1.10 | ~£4.40 | ~£6.60 |
+| **Waitrose non-homogenised** | **~£3.00** | **~£12** | **~£18** |
+| Channel Island doorstep | ~£2.50–3.50 | ~£10–14 | ~£15–21 |
+| Raw milk farm-direct | ~£2.00–3.00 | ~£8–12 | ~£12–18 |
 
-So roughly **+£3–9 per batch** for milk that meaningfully changes the outcome. Cheap insurance on a 6-hour make.
+Non-homogenised supermarket milk is roughly **3× the price** of the standard product. For a 6 L cheddar batch, that's an extra **~£11**; for a 4 L mozzarella batch, an extra **~£8**. Not trivial — but compared with 6+ hours of work, weeks of ageing, and the cost of failure, still cheap insurance.
+
+If price is a sticking point, consider doorstep-delivery dairies — Channel Island or non-homogenised options often come in cheaper than Waitrose per litre, in glass bottles, fresher.
 
 ## Recommended next steps by cheese type
 
