@@ -31,7 +31,7 @@ stretch H₂O = 1 mL per g milled curd, at 95 °C
 | Ingredient | Book (11.4 L) | Today (4 L) | Notes |
 |---|---|---|---|
 | Whole cow's milk | 11.4 L | 4.0 L | Freshest available; non-UHT |
-| Chr Hansen TCC-20 (DVI) | 2.3 U | **0.81 U** | ≈ 1.62 % of a 50 U pack; ~61 mg if pack density ~75 mg/U |
+| Chr Hansen TCC-20 (DVI) | 2.3 U | **0.81 U** | ≈ 1.62 % of a 50 U pack = **72 mg** (measured pack: 4.471 g for 50 U → 89.42 mg/U) |
 | Rennet (1:10,000) | 2.5 mL | **0.88 mL** | Dilute in ~15 mL cool non-chlorinated water before adding |
 | Salt (non-iodised) | ~21 g | **~7.4 g** | 1.5 % w/w of milled curd; weigh actual curd before salting |
 | CaCl₂ (32 % soln) | not specified | **1.2 mL** | 0.3 mL/L for pasteurised + homogenised (see calculations.md note from cheddar batch — 0.2 mL/L gave a soft set; trying 0.3 next). Book doesn't list it. |
@@ -41,9 +41,11 @@ stretch H₂O = 1 mL per g milled curd, at 95 °C
 
 For a 4 L batch at the book rate (2.3 U / 11.4 L = 0.20 U/L — much hotter than Chr Hansen's standard ~0.01–0.02 U/L baseline, but normal for mozzarella where a fast ~4-hour drop to pH 5.25 is the design intent):
 
-| Rate | U needed | % of 50 U pack | Mass to weigh (~75 mg/U) | One pack covers |
+**Measured pack contents: 4.471 g for 50 U → 0.08942 g/U (89.42 mg/U).**
+
+| Rate | U needed | % of 50 U pack | Mass to weigh | One pack covers |
 |---|---|---|---|---|
-| Book (0.20 U/L) | 0.81 U | 1.62 % | ~61 mg | 250 L = ~63 × 4 L batches |
+| Book (0.20 U/L) | 0.81 U | 1.62 % | **72 mg** | 250 L = ~63 × 4 L batches |
 
 Three approaches, best first:
 
@@ -143,7 +145,7 @@ Transcribed from *Home-made Cheese* (Paul Thomas) with today's numbers.
 
 1. **Heat** milk to **37 °C**, stirring. **Maintaining 37 °C throughout is critical** (use a bain-marie, induction at lowest setting with frequent stirs, or an insulated pan). Record pH₀.
 2. *(Optional, recommended for pasteurised/homogenised milk)* **Add CaCl₂** — **1.2 mL** of 32 % solution (= 0.3 mL/L) diluted in a splash of water. Stir in.
-3. **Inoculate** with TCC-20 (today: **0.81 U** ≈ 1.62 % of the 50 U pack). Stir in. Leave to stand **1 hour** at 37 °C, stirring gently every 10–15 min.
+3. **Inoculate** with TCC-20 (today: **0.81 U** = **72 mg** = 1.62 % of the 50 U pack). Sprinkle over the milk surface, wait 1 min for rehydration, then stir through. Leave to stand **1 hour** at 37 °C, stirring gently every 10–15 min (also keeps the cream layer incorporated on non-homogenised milk).
 4. **Add rennet** (today: **0.88 mL** of 1:10,000 in ~15 mL water), stir in for ~30 s, then leave to stand still **50 min** at 37 °C. Coagulation signs should appear by **25 min**; full set at 50.
 5. **Check for clean break.** Cut the curds in **one direction only at 2 cm** spacing, then **stir gently with a whisk** to finish the cut over **15 min**, aiming for **1 cm cubes**. Stop if cubes get too small. Aim for cottage-cheese consistency.
 6. **Allow the curds to sink** as the whey separates. **Settle 5 min.** **Drain off the whey** into a colander lined with muslin.

@@ -107,4 +107,56 @@ Template:
 - Tasted on YYYY-MM-DD: TBD
 - What to change next time: see Lessons above.
 
+## 2026-05-21 — Mozzarella (4 L)
+
+- **Recipe:** [mozzarella](recipes/mozzarella.md)
+- **Milk:** 4.0 L whole cow's milk, Waitrose, **non-homogenised**, pasteurised
+- **Culture:** Chr Hansen TCC-20, **0.072 g** (= 0.81 U, 1.62 % of 50 U pack; pack measured at 4.471 g → 89.42 mg/U)
+- **Rennet:** 0.88 mL liquid 1:10,000, to be diluted in ~15 mL cool boiled water
+- **Other adds:** CaCl₂ 32 % solution, **0.8 mL** (= 0.2 mL/L for non-homogenised), in pre-warming.
+
+### Timeline
+- ~12:30 — start (approx). Milk and CaCl₂ into pot, slow warm. pH meter calibrated this morning (was ~0.1 out, now within calibration).
+- 13:05 — milk at 36 °C; **culture in**. Ripening clock starts. Temperature strategy: hold within 35–39 °C band (better-suited to induction than chasing exactly 37).
+- 14:05 — end of 1 h ripening. Temp 37 °C ±0.5 °C; pH 6.6 (probe fully settled). **Rennet in**, stirred 30 s, then still. Set begins.
+- 14:35 — 30 min into set. No clear flocculation signs visible yet (book says ~25 min). Held the line, lid on, no probing.
+- 14:55 — clean break test: custardy, not quite as firm as ideal but workable for the directional-then-whisk cut. Started directional cut at 2 cm.
+- 15:10 — first cut done; switched to whisk to finish to ~1 cm cubes.
+- 15:25 — whisk-finish done. Settle 5 min. Bain-marie pre-prepped.
+- 15:30 — **drain** into muslin-lined colander. Drain pH **6.5**. Colander into bain-marie (~50 °C water) immediately. Turning every 15–20 min from here.
+- 17:00 — pH **5.6** (whey running off). Acidification rate ~0.15 pH/15 min — book rate exactly. Faster than predicted given the lowish pH₀.
+- 17:35 — pH **5.1** (overshoot from 5.25 target; 0.5 drop in 35 min = ~0.21 pH/15 min, accelerated from earlier). **Mill trigger met (over).** Stretch test OK.
+- ~17:40 — milled curd weighed: **683 g** (= **16.6 %** of milk weight; well above book's 10–12 %).
+- ~17:45 — salt added: **10.2 g** at 1.5 % of milled curd, mixed gently.
+- ~17:50 — **stretch**: ~683 mL of 95 °C water poured over salted milled curd in heatproof bowl. Stirred until single mass. Hand-shaped into pieces, re-dipped 1–2 times to reform solid balls.
+- 18:00 — **3 balls** of similar size (~228 g each) into cold-water bath, then into cool tap water in fridge for storage.
+
+### Observations
+- **pH₀ progression** as probe settled and milk warmed: 6.0 → 6.1 → 6.2 (cold, settling) → 6.4 (warm, settling) → **6.6** (fully settled at rennet-in). True pH₀ was always ~6.6 — early readings were probe lag, not low milk pH. Lesson reconfirmed (from cheddar): wait for probe to fully stabilise before recording.
+- **Ingredients pre-weighed/measured to within ~5 %** of target. Big improvement on cheddar batch.
+- **Set was custardy at 50 min** — softer than ideal but workable for mozzarella's whisk-finish cutting. Non-homogenised + 0.2 mL/L CaCl₂ gave a working set; bumping to 0.3 mL/L for non-homogenised may be unnecessary (saved that for homogenised milk only).
+- **Acidification was fast.** Drain at 15:30 (pH 6.5) → mill at 17:35 (pH 5.1) = 2 h 5 min, well inside the book's 4-hour expectation. Rate accelerated as pH dropped (0.15/15 min mid-phase, 0.21/15 min late). Mill caught at 5.1 rather than 5.25 — overshoot.
+- **Yield 16.6 %** (683 g milled curd from 4.12 kg milk). Far above book's 10–12 % — non-homogenised whole milk retains more fat and water than the homogenised default the book assumed. Balls will be wetter and richer than book intent.
+- **Stretch worked** but needed 1–2 re-dips per ball to consolidate. Consistent with mill pH being at the low edge of acceptable (5.05–5.10 borderline).
+- **Total time start → balls in cold water: ~5 h 30 min** (12:30 → 18:00). Faster than the book's 6–7 h forecast.
+- **Lessons for next time:**
+  1. **Stretch-test much earlier.** Once pH drops below 5.6, test every 5–10 min, not 10–20. Window from 5.5 to 5.1 took only 35 min — very narrow.
+  2. **0.2 mL/L CaCl₂ for non-homogenised milk was sufficient.** Don't bump to 0.3 unless using homogenised.
+  3. **Set may be softer than expected at 50 min** for mozzarella; the whisk-finish cut is forgiving — no need to extend the set significantly.
+  4. **Expect higher yield from non-homogenised milk** (16 % here vs 12 % book) — plan more storage capacity, more salt, more stretch water.
+  5. **The bain-marie strategy worked.** Culture stayed active throughout acidification. Direct application of cheddar batch's hardest-won lesson.
+
+### Outcome
+- **Yield**: 683 g from 4.0 L (16.6 % of milk weight). 3 balls at ~228 g each.
+- **Stretch quality**: smooth, slightly soft. Needed re-dipping during shaping.
+- **Storage decision**: all 3 balls into cheese fridge at 13 °C in sealed container with cool tap water. Plan to move to main fridge (~4 °C) around 09:00 next morning (= ~15 h at cellar temp). Cellar storage benefits texture; shortened window reflects elevated spoilage risk from low mill pH (5.1) and high yield (lots of water in curd).
+- **Expected eating plan given low mill pH:**
+  - Day 0 (tonight): one ball at peak — Caprese / plain torn with olive oil + salt.
+  - Day 1: second ball. Still fresh, slightly tangier.
+  - Day 2: third ball, cooked applications (pizza, pasta bake).
+  - Don't push past Day 3.
+- **Storage watch-list**: sour smell beyond yogurty, slimy surface, ropy water, pink/orange tint → bin. Taste a small corner first from Day 2 onwards.
+- **Tasted on YYYY-MM-DD**: TBD
+- **What to change next time**: see Lessons above. Primary takeaway: test stretch from pH 5.6 onwards every 5–10 min — the window closes fast. Secondary: 0.2 mL/L CaCl₂ for non-homogenised milk was sufficient (no need to bump to 0.3).
+
 <!-- Add new entries above this line -->
