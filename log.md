@@ -107,6 +107,12 @@ Template:
 - Tasted on YYYY-MM-DD: TBD
 - What to change next time: see Lessons above.
 
+### Affinage notes
+
+Weekly turn schedule: intended **Sundays** (cave entry was Mon 2026-05-18).
+
+- **2026-05-25 (Mon, D+7, week 1)** — first turn, **1 day late** vs intended Sunday cadence. **No signs of anything unusual:** no surface mould, no slime, no off smells; bandage looks intact.
+
 ## 2026-05-21 — Mozzarella (4 L)
 
 - **Recipe:** [mozzarella](recipes/mozzarella.md)

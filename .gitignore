@@ -8,3 +8,6 @@ desktop.ini
 *~
 .idea/
 .vscode/
+
+# Claude Code per-machine state
+.claude/
