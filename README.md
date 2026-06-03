@@ -6,6 +6,8 @@ Notes, recipes, references, and batch log for home cheese-making.
 
 - [calculations.md](calculations.md) — percentages, ratios, brine, rennet dosing
 - [milk.md](milk.md) — what to look for when shopping for cheese-making milk
+- [flavour.md](flavour.md) — how to influence flavour profile via make and cave choices
+- [affinage.md](affinage.md) — ageing methods, schedules, decision tree, surface management (mould ID, wipe solutions, treatment, prevention)
 - [log.md](log.md) — chronological record of batches
 - [recipes/](recipes/) — one file per cheese
 - [references/](references/) — summaries of useful web pages

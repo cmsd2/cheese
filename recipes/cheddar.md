@@ -97,11 +97,11 @@ Cheddar typically yields **8–10 %** of milk weight.
 | Coagulation signs | 32 | — | Expect at 15–30 min in |
 | Cutting curd | 32 | — | Cubes; cut slowly over 5 min, settle 5 min |
 | Scalding | 32 → 40 | — | **+2 °C every 15 min**, stir every 5 min, ~1 h |
-| Whey drain | 40 | **6.2–6.3** | Record actual pH |
-| Cheddaring | falling | 6.2 → 5.40–5.45 | Knit, flip every 15 min; **0.15 pH per 15 min** = ~75–90 min total |
-| Milling | falling | **5.40–5.45** | Mill into 2.5 × 5 cm chunks |
-| Dry salting | falling | ~5.4 | 2 % w/w of milled curd, in two halves 5 min apart |
-| Mellow | falling to 22 | — | 15 min minimum; continue until curd hits **22 °C** |
+| Whey drain | 40 | record (book: 6.2–6.3) | **Time-driven**: 5 min after scald ends. Record actual pH; don't wait for the meter to reach a target. |
+| Cheddaring | **hold 35–38 °C** | 6.2 → 5.40–5.45 | Knit, flip every 15 min; **0.15 pH per 15 min** = ~75–90 min total. **Bain-marie or insulated zone required** — curd left to cool to ambient stalls acid generation. |
+| Milling | 35–38 °C | **5.40–5.45** | Mill into 2.5 × 5 cm chunks |
+| Dry salting | 35–38 °C | ~5.4 | 2 % w/w of milled curd, in two halves 5 min apart |
+| Mellow | falling toward 22 | — | 15 min minimum; continue until curd hits **22 °C** (mellow is the only stage where temp actively drops) |
 | Pre-press | **22** | — | Critical — higher loses fat, lower fails to knit |
 | First press | 22 | — | 1–2 h at ~2.5 kg (quarter bucket) |
 | Second press | room | — | 12 h at ~10 kg (full bucket), flipped, cloth re-tightened |
@@ -133,32 +133,54 @@ The book gives times. Times are a proxy. **The actual signal is pH** — drive e
 | t (from culture-in) | Action |
 |---|---|
 | 0–45 min | Don't rennet yet — let freeze-dried cells fully rehydrate even if dose is hot |
-| 45–90 min | Watch pH; rennet at the **0.1 drop** from pH₀ |
-| > 90 min, no drop | Something is wrong — dead culture, milk too cold, contamination. Investigate, don't push on |
+| 45–90 min | Rennet at the **0.1 pH drop from pH₀, OR at 60 min, whichever comes first.** |
+| > 90 min, no detectable drop | Likely fine — see note below. Rennet at 90 min and proceed. |
 
-The book's 60 min is the *target* — being earlier or later by 20–30 min is normal.
+**Why "OR 60 min":** The 0.1 drop is a useful trigger when you can see it, but **healthy fresh well-buffered milk (e.g. non-homogenised whole) and a calibrated meter combine to hide small drops in measurement noise**. Real meter precision is ~0.05 even when the digit reads 0.01. With fresh milk's higher phosphate/carbonate buffering, the same acid production moves the pH less. If you've waited 60 min and see no clear drop, the culture is still working — just don't wait indefinitely. The book's 60 min is the target; staying within 45–90 min is fine either way.
 
 ### Trade-offs in one paragraph
 
 Culture quantity sets the starting population. Time and temperature let it multiply (~30–60 min doubling). You can substitute one for another: less culture + more time ≈ more culture + less time. **Don't raise temperature to compensate** — R704 is mesophilic and stressing it changes flavour and strain proportions. Just wait.
+
+### Cheddaring temperature — the most common silent failure mode
+
+The book recipe says "falling temperature" for cheddaring without a target. **In practice, the curd needs to stay at 35–38 °C** through the entire cheddaring phase (drain → mill). Multiple sources (cheesemaking forums, dairy-research extension articles) give the target as **35–39 °C (95–102 °F)**.
+
+**What happens if it's cooler:**
+- ~30–32 °C: R704 slows considerably — acid generation may run at ¼–½ the book rate.
+- <28 °C: cells go effectively dormant; acid generation stalls.
+- Curd cooled to ambient: not recoverable in the day's window. Even bain-marie rescue partially recovers but won't get you all the way back.
+
+**What happens if it's hotter:**
+- 39–42 °C briefly: tolerable but stresses *cremoris*; flavour shifts.
+- >42 °C: cremoris dies; flavour profile shifts measurably.
+- >45 °C: lactis also stressed; risk killing the culture mid-make.
+
+**Practical setup:**
+1. Before drain, prepare a **bain-marie**: large pan/sink with water at **55–60 °C**. The colander (or curd pan) sits in it; aim for curd centre temp 35–38 °C.
+2. **Top up bain-marie water** with kettle-hot every 15–20 min as it cools.
+3. **Cover** the colander/pan to retain humidity and heat.
+4. **Probe the curd block centre**, not the bain-marie water, for the temperature reading that matters.
+
+Failure to hold this temperature was the dominant cause of slow acid in the 2026-05-16 and 2026-05-22 batches. The bain-marie isn't optional; it's the make-or-break setup for the cheddaring phase.
 
 ## Process — book steps
 
 Steps 1–14 are transcribed from *Home-made Cheese* (Paul Thomas). **Pressing, drying, and ageing steps are not yet captured — paste when ready.**
 
 1. **Heat** milk to **32 °C** and record the pH.
-2. **Inoculate** with R704 (today: **0.79 U** ≈ 1.58 % of the 50 DU pack). Leave for **~1 hour**, stirring occasionally to incorporate any cream rising. **Trigger rennet on the 0.1 pH drop from pH₀**, not the clock — see Decision rules above. Expect this between 45 and 90 min.
+2. **Inoculate** with R704 (today: **0.79 U** = 60 mg ≈ 1.58 % of the 50 DU pack). Leave for **~1 hour**, stirring occasionally to incorporate any cream rising. **Trigger rennet at the 0.1 pH drop from pH₀, OR at 60 min, whichever comes first** — see Decision rules. The drop can be hard to see in fresh well-buffered milk; don't wait past 90 min looking for it.
 3. **Add rennet** (today: **1.58 mL** of 1:10,000), stir in, then leave to stand **45 min** at 32 °C. Coagulation signs should appear between **15 and 30 min**.
 4. **Test the curd** (clean break / floc-check), then **cut to cubes** slowly over **5 min**. Leave to settle **5 min**.
 5. **Stir** every 5 min for **1 hour**, raising the temperature from 32 °C to **40 °C in ~2 °C increments** (i.e. roughly +2 °C every 15 min). By the end the curds will have shrunk into firm, compact pellets.
 6. **Stop stirring** and let the curds sink below the whey for **5 min**.
-7. **Pour off the whey** and record the pH — should be **6.2–6.3**.
-8. **Push the curds to one side** of the pan and prop it so whey drains. Leave **15 min** — the curds will start to knit.
-9. **Test the pH** of the whey running off.
-10. **Turn the curd block every 15 min**, recording pH each time. Expect a drop of **~0.15 pH per 15 min**. When it reaches **5.40–5.45** it is ready to mill. Normally **~75–90 min** from drain (book: "over an hour").
+7. **Pour off the whey** at the end of the 5-min settle and **record the actual pH** — book expects **6.2–6.3**, but **drain is time-driven, not pH-gated**. If pH is higher than 6.2–6.3 at this point (e.g. 6.4–6.6 in a slow-acidifying batch), drain anyway and note it — the extra retained lactose will drive more acid generation during cheddaring. Don't hold the pan to "wait for" the target drain pH.
+8. **Push the curds to one side** of the pan and prop it so whey drains. **Set up a bain-marie before this step**: a larger pan/sink with water at ~55–60 °C, big enough to sit the cheddaring colander or pan in. Transfer the curd-bearing pan/colander straight into the bain-marie so the curd doesn't cool. Leave **15 min** — the curds will start to knit. **Cover** to retain heat and humidity.
+9. **Test the pH** of the whey running off. Also **probe the curd block itself** with the thermometer — target **35–38 °C** at the centre. If the curd is cooler, the bain-marie water needs to be hotter and/or topped up more often.
+10. **Turn the curd block every 15 min**, recording pH each time. **Maintain 35–38 °C in the curd** throughout — top up bain-marie hot water as it cools. **For sharper, drier results: cut the matted block into 3–5 cm slabs after the first 15 min and stack 2-high, restacking and flipping every 10–15 min.** Each restack expels more whey under gravity. Expect a drop of **~0.15 pH per 15 min** when the temperature is in band. When it reaches **5.40–5.45** it is ready to mill (or lower for a sharper variant — see below). Normally **~75–90 min** from drain (book: "over an hour"); longer if temperature isn't held.
 11. **Weigh the curd**. Compute **2 % of that weight** in salt — write it down in the log; don't trust the pre-batch table figure.
-12. **Mill** by hand into chunks **~2.5 × 5 cm**. Texture should resemble cooked chicken-breast layers.
-13. **Sprinkle half the salt** over the curds and mix; wait **5 min**; then add the **second half** and mix.
+12. **Mill** by hand into chunks. Book says ~2.5 × 5 cm; **traditional/commercial consensus is smaller (1.5–2 cm, "thumb to walnut size")** — smaller = more surface area = better salt uptake = stronger flavour. For sharper variants, lean toward the smaller end. Texture should resemble cooked chicken-breast layers when torn. Hand-tearing is fine and gives irregular surfaces (more area than clean knife cuts).
+13. **Salt in 2–3 stages, sprinkled and gently folded.** Book says 2 halves 5 min apart; **traditional practice is 3 thirds over 15–20 min**, which gives more time between additions for each dose to draw whey, form a brine on chunk surfaces, and re-absorb. **Fold or toss gently** — distribute salt without crushing chunks (crushing locks salt out of interiors). Wait 5–10 min between stages.
 14. **Mellow** 15 min.
 
 15. **Pre-press temperature check** — curd should be at **22 °C** before going into the mould. Hotter than 22 °C and you lose fat through the cloth; cooler and the curds won't knit. Adjust mellow length / ambient to hit it.

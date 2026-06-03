@@ -165,4 +165,70 @@ Weekly turn schedule: intended **Sundays** (cave entry was Mon 2026-05-18).
 - **Tasted on YYYY-MM-DD**: TBD
 - **What to change next time**: see Lessons above. Primary takeaway: test stretch from pH 5.6 onwards every 5–10 min — the window closes fast. Secondary: 0.2 mL/L CaCl₂ for non-homogenised milk was sufficient (no need to bump to 0.3).
 
+## 2026-05-22 — Cheddar (6 L), sharper variant
+
+- **Recipe:** [cheddar](recipes/cheddar.md), pushing toward the sharper/crumblier end of the spectrum
+- **Milk:** 6.0 L whole cow's milk, Waitrose, **non-homogenised**, pasteurised. First cheddar with the milk upgrade.
+- **Culture:** Chr Hansen R704, **60 mg** (= 0.79 U, 1.58 % of 50 DU pack measured at 3.796 g → 76 mg/U)
+- **Rennet:** 1.58 mL liquid 1:10,000, to be diluted in ~30 mL cool boiled water
+- **Other adds:** CaCl₂ 32 % solution, **1.2 mL** (= 0.2 mL/L for non-homogenised; the 0.3 mL/L bump is for homogenised milk only), stirred in during warm-up.
+
+### Variant targets vs book / vs last cheddar batch
+
+| Stage | Book / last batch (meter) | This batch (meter) | Why |
+|---|---|---|---|
+| Drain pH | 6.00 | **5.85** | Retain more lactose → more post-drain acid |
+| Mill pH | 5.20 (= true 5.40) | **5.00** (= true 5.20) | Tang + crumble; demineralisation |
+| Cheddaring | Single matted block | **Cut into slabs, stack & restack** | More whey expulsion, drier curd |
+| Cheddaring temp | Ambient (dropped to room temp) | **Bain-marie ~32 °C sustained** | Acid keeps moving down past 5.30 |
+| Salt | 2.0 % w/w milled curd | **2.5 % w/w** | Slows further acid, improves ageing keeping |
+| Ageing target | "Good" tier, 3–5 months | **"Best" tier, 5–7 months** | Sharpness needs time |
+
+### Timeline
+- ~08:50 — start (approx). Milk and CaCl₂ into pot, slow warm. pH meter calibrated yesterday.
+- 09:10 — milk at 32 °C; pH₀ **6.8** (calibrated meter on fresh non-homogenised milk — healthy starting point vs last batch's 6.5). **Culture in.** Ripening clock starts. Holding 30–34 °C band.
+- 10:32 — 82 min into ripening, no clear 0.1 pH drop visible (meter still reading ~6.8). Per the "0.1 drop OR 60 min" rule (added to recipe today), **rennet in** anyway. Set begins.
+- 11:10 — 38 min into set; curd custardy, not yet clean break. Held.
+- 11:17 — 45 min into set; tested, still not quite firm. Held briefly.
+- 11:30 — 58 min into set; cut into ~1 cm cubes over 5 min. Curd was workable but on the soft side, similar to last batch.
+- 11:35 — settle done; start of stir + scald ramp.
+- 12:20 — reached 40 °C at end of scald (45 min ramp, faster than book's 60 min — +2 °C every ~11 min). pH **6.6**.
+- 12:30 — drain (per the book's time-driven 5-min settle, not pH-gated). Whey pH **6.6** at drain — higher than book's 6.2–6.3 expectation but accepted per the updated recipe (extra retained lactose drives later cheddaring acid).
+- ~12:35 — colander into bain-marie. Slab-and-stack cheddaring begins (slabs cut at ~10 min in, then stacked 2-high and restacked every 10–15 min).
+- 13:05 — pH **6.5** (slow start, 0.043/15min).
+- 13:20 — pH **6.4** (rate jumped to 0.10/15min — book rate).
+- 14:45 — pH **6.0** (averaged ~0.07/15min over the last 85 min — product inhibition setting in).
+- 15:25 — pH **5.9** (rate slowed further to 0.04/15min).
+- ~15:30 — **investigated slow rate via web search.** Found that cheddaring curd target is **35–39 °C**, not the 32 °C I'd been advising. Bain-marie water bumped from ~45–50 °C to ~55–60 °C; curd centre warmed to ~35–38 °C.
+- 16:00 — pH **5.7**. Rate doubled to 0.086/15min after the warm-up. Recovery confirmed.
+- 17:10 — pH **5.3**. Holding at the recovered rate.
+- 17:25 — pH **5.20** = mill target met. **Mill trigger.** True pH ~5.20 (calibrated meter), genuinely sharper than last batch's true 5.40.
+- ~17:30 — milled by hand, ~2 cm chunks. Weighed: **788 g** (= **12.8 %** yield, drier than last batch's 13.9 % — proper slab-and-stack working).
+- ~17:35–17:55 — salt **19.7 g at 2.5 %** (sharper variant target), applied in **3 stages over ~20 min** (per research-backed update to recipe). Folded gently between additions.
+- ~17:55–18:15 — mellow until curd centre hit 22 °C (came down from 35 °C+ over ~20 min).
+- ~18:15 — into cheesecloth-lined mould, **first press on at 2.5 kg** (quarter bucket).
+
+### Observations
+- **Big improvements vs first cheddar batch:** calibrated pH meter, pre-weighed ingredients, non-homogenised milk, bain-marie set-up ready in advance, conscious commitment to slab-and-stack cheddaring.
+- **pH₀ 6.8 is 0.3 higher than last batch.** Trigger 6.70 was never clearly hit — the 0.1 drop in fresh well-buffered milk hides in meter noise. **Renneted at 60+ min by the new "0.1 drop OR 60 min" rule** (added to recipe today).
+- **Drain at pH 6.6 was high** vs book's 6.2–6.3 expectation. Followed the book's time-driven drain anyway (5 min after scald). Higher drain pH = more lactose retained = more acid drop available in cheddaring; trade-off accepted.
+- **Cheddaring temperature was the silent failure mode** for ~2.5 h. Bain-marie water at 45–50 °C was only getting the curd centre to ~30–32 °C — well below the 35–39 °C consensus target. Acid rate ran at ¼ to ½ book rate. Once water was bumped to 55–60 °C and curd centre reached 35–38 °C, **rate doubled within 30 min**. This finding was important enough to add to the recipe as a dedicated section ("Cheddaring temperature — the most common silent failure mode").
+- **Mill at meter 5.20 = true ~5.20** (calibrated meter). Compare with last batch's meter 5.20 = true ~5.40 (uncalibrated). **0.2 units genuinely sharper at the true-pH level despite same meter reading.**
+- **Slab-and-stack technique paid off in moisture:** pre-press yield 12.8 % vs last batch's 13.9 % — about 70 g less retained whey from 6 L. Curd had visible "chicken breast" fibrous tearing texture.
+- **Salt 2.5 %** (sharper variant) vs last batch's 2 %, applied in **3 stages over 20 min** following the technique research from today. Should slow further acidification and improve ageing keeping quality.
+- **Total day shorter than last batch despite cheddaring drama**: ~9.75 h cold milk → first press, vs 11+ h last time. The 30-min cheddaring temperature recovery cost less than expected.
+- **Lessons confirmed for next time:**
+  1. **Bain-marie water must be 55–60 °C**, not 45–50, to hold curd at 35–38 °C through cheddaring. Probe curd centre, not water.
+  2. **Apply salt in 3 stages over 15–20 min**, not 2 halves 5 min apart. Better salt uptake, more even distribution.
+  3. **Mill chunks at the smaller end** (1.5–2 cm, not 2.5 × 5) for sharper variants — more surface area for salt.
+  4. **Don't chase the 0.1 pH drop trigger blindly** — fresh well-buffered milk hides it. Use "OR 60 min, whichever comes first".
+  5. **The book's drain pH 6.2–6.3 is a measurement, not a gate.** Drain by clock at 5 min after scald and accept whatever pH that gives you.
+  6. **Sharper variant true mill pH of ~5.0 is too ambitious** for a single-day make with mesophilic culture; **5.20 is the realistic sharper target.**
+
+### Outcome
+- TBD pending presses (first press 18:15–~19:15, second press ~19:15 overnight to ~14:00 tomorrow).
+- **Projected pressed wheel: 685–710 g** (= 11.1–11.5 % final yield at 10–13 % press loss).
+- **Target maturation: 5–7 months ("Best" tier).** With drier, more acidic curd and the lessons from the first batch on bandage technique.
+- **First taste**: planned month 3 (mid-August 2026), with peak window mid-October to late-December 2026.
+
 <!-- Add new entries above this line -->
